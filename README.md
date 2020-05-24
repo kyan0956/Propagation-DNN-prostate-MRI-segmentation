@@ -5,7 +5,7 @@ Please install [3D Caffe](https://au.mathworks.com/matlabcentral/answers/522143-
 
 1. Put your data to ./data folder. The data should be 64x64x32 shape alone with three dimensions. Create indexlist.txt file that annotates the file names of testing data.
 2. Run demo_s1.m with Matlab to preprare necessary intermediate data for P-DNN.
-3. Download our trained model here and put it to ./model folder.
+3. Download our trained model [here](https://drive.google.com/open?id=1-Zu5-6CDbdDjrMc47SJTF3cv5FUYNcHW) and put it to ./model folder.
 4. Run demo_s2.py with Python to use P-DNN for segmentation. The results will be stored in ./result folder.
 
 ## If you think this work is helpful, please cite our paper.
