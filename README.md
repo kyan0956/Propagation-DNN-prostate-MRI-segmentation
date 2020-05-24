@@ -9,7 +9,7 @@ Please install [3D Caffe](https://au.mathworks.com/matlabcentral/answers/522143-
 
 ## If you think this work is helpful, please cite our paper.
 
-@article{yan2019propagation,\n
+@article{yan2019propagation,\r\n
   title={A propagation-DNN: Deep combination learning of multi-level features for MR prostate segmentation},
   author={Yan, Ke and Wang, Xiuying and Kim, Jinman and Khadra, Mohamed and Fulham, Michael and Feng, Dagan},
   journal={Computer methods and programs in biomedicine},
