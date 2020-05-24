@@ -10,11 +10,11 @@ Please install [3D Caffe](https://au.mathworks.com/matlabcentral/answers/522143-
 ## If you think this work is helpful, please cite our paper.
 
 @article{yan2019propagation,  
-  title={A propagation-DNN: Deep combination learning of multi-level features for MR prostate segmentation},
-  author={Yan, Ke and Wang, Xiuying and Kim, Jinman and Khadra, Mohamed and Fulham, Michael and Feng, Dagan},
-  journal={Computer methods and programs in biomedicine},
-  volume={170},
-  pages={11--21},
-  year={2019},
-  publisher={Elsevier}
+  title={A propagation-DNN: Deep combination learning of multi-level features for MR prostate segmentation},  
+  author={Yan, Ke and Wang, Xiuying and Kim, Jinman and Khadra, Mohamed and Fulham, Michael and Feng, Dagan},  
+  journal={Computer methods and programs in biomedicine},  
+  volume={170},  
+  pages={11--21},  
+  year={2019},  
+  publisher={Elsevier}  
 }
